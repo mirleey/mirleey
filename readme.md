@@ -10,6 +10,14 @@ Graduada em Física pela Universidade Federal de Mato Grosso(2022), atualmente c
   <img src=https://media.tenor.com/uE7oJ57r9sgAAAAd/rick-sanchez-rick-and-morty.gif width = "250" />
 </div>
 
+### * Furthermore * 
+- Mãe de pets
+- Player Dead by daylight
+- Player Day Z
+- Skate
+- Rokista
+  
+
 ## Talk to me
 <div align="center">
   <a href="https://github.com/mirleey" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -19,13 +27,6 @@ Graduada em Física pela Universidade Federal de Mato Grosso(2022), atualmente c
   <a href="https://https://reprograma.com.br/" target="_blank"><img src="https://img.shields.io/badge/-reprograma-%23E4405F?style=for-the-badge&logo=reprograma&logoColor=purple" target="_blank"></a>
 </div>
 
-
-
-## 
-
-
-- lista1
-- lista2
 
 ## TEC
 
