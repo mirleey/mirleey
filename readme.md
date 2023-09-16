@@ -4,7 +4,7 @@
 
 ###  *About me *
 
-Graduada em Física pela Universidade Federal de Mato Grosso(2022), atualmente curso mestrado em Astrofísica pela Universidade Federal de Santa Catarina além do curso acadêmico, faço parte da primeira turma de análise de dados com Python pela Reprogama. Amante das ciênciais exatas, naturais e da computação. Uma personificação do Rick Sanchez feminina. 
+Graduada em Física pela Universidade Federal de Mato Grosso(2022), atualmente curso mestrado em Astrofísica pela Universidade Federal de Santa Catarina além do curso acadêmico, faço parte da primeira turma de análise de dados com Python pela Reprogama. Amante das ciênciais exatas, naturais e da computação. Aspirante à Rick Sanchez feminina. 
 <div align="center">
   <img src=https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-sairfazendo.gif width="353"/>
   <img src=https://media.tenor.com/uE7oJ57r9sgAAAAd/rick-sanchez-rick-and-morty.gif width = "250" />
