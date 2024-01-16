@@ -4,9 +4,9 @@
 
 ###  *About me *
 
-Graduada em Física pela Universidade Federal de Mato Grosso(2022), atualmente mestranda em Astrofísica pela Universidade Federal de Santa Catarina, além do curso acadêmico participante da primeira turma de análise de dados com Python pela Reprogama. Amante das ciênciais exatas, naturais e da computação. Aspirante à Rick Sanchez feminino, exceto à inteligência. 
+Graduada em Física pela Universidade Federal de Mato Grosso(2022), atualmente mestranda em Astrofísica pela Universidade Federal de Santa Catarina, além do curso acadêmico, formada em analise de dados com Python pela Reprogama. Amante das ciênciais exatas, naturais e da computação. Aspirante à Rick Sanchez feminino, exceto à inteligência. 
 
-Graduated in Physics from the Federal University of Mato Grosso (2022), currently a master's student in Astrophysics from the Federal University of Santa Catarina, in addition to the academic course participating in the first data analysis class with Python at Reprogama. Lover of exact, natural and computer sciences. Female Rick Sanchez aspirant, except intelligence.
+Graduated in Physics from the Federal University of Mato Grosso (2022), currently a master's student in Astrophysics from the Federal University of Santa Catarina, in addition to the academic course, formed in the data analysis with Python at Reprogama. Lover of exact, natural and computer sciences. Female Rick Sanchez aspirant, except intelligence.
 <div align="center">
   <img src=https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-sairfazendo.gif width="353"/>
   <img src=https://media.tenor.com/uE7oJ57r9sgAAAAd/rick-sanchez-rick-and-morty.gif width = "250" />
