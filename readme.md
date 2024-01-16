@@ -23,7 +23,8 @@ Graduated in Physics from the Federal University of Mato Grosso (2022), currentl
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width = "45" /> <img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/09/com037-scaled.jpg" width="60"  height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="60"/><img src="https://www.lib.washington.edu/dataservices/images/Tableau_Software_logo.png/image" width="60" heigth="60"/>
-
+<img src="https://pandas.pydata.org//static/img/favicon_white.ico"  width="60" height="60"/> 
+<img src="https://cdn3d.iconscout.com/3d/free/thumb/free-numpy-9294869-7578012.png" width="60" height="60"/> 
 
 
 ## Projects
