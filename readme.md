@@ -25,6 +25,7 @@ Graduated in Physics from the Federal University of Mato Grosso (2022), currentl
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="60"/><img src="https://www.lib.washington.edu/dataservices/images/Tableau_Software_logo.png/image" width="60" heigth="60"/>
 
 
+
 ## Projects
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
